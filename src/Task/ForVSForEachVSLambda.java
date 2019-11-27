@@ -12,6 +12,7 @@ public class ForVSForEachVSLambda {
         list.forEach(String -> System.out.println(String));
 
         System.out.println("---------------------------------");
+        System.out.println("---------------------------------");
 
 
         for (int i = 0; i < list.size(); i++) {
